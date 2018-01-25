@@ -11,7 +11,7 @@
     "url": "git+https://github.com/SitecorePowerShell/gitbook-plugin-last-modified.git"
   },
   "engines": {
-    "gitbook": ">3.x.x"
+    "gitbook": ">1.x.x"
   },
   "author": "SitecorePowerShell",
   "license": "MIT",
