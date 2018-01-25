@@ -1,0 +1,22 @@
+{
+  "name": "gitbook-plugins",
+  "version": "1.0.0",
+  "description": "GitBook plugin that adds the \"last modified\" info under every page title ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SitecorePowerShell/book-plugins.git"
+  },
+  "engines": {
+    "gitbook": ">3.x.x"
+  },
+  "author": "SitecorePowerShell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SitecorePowerShell/book-plugins/issues"
+  },
+  "homepage": "https://github.com/SitecorePowerShell/book-plugins#readme"
+}
