@@ -1,5 +1,5 @@
 {
-  "name": "gitbook-plugins",
+  "name": "book-plugins",
   "version": "1.0.0",
   "description": "GitBook plugin that adds the \"last modified\" info under every page title ",
   "main": "index.js",
